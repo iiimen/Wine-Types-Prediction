@@ -15,7 +15,7 @@ This project uses deep learning to classify white and red wines based on their p
 The data set used for this project is sourced from the UCI Machine Learning Repository, which can be found at the following links:
 
 <h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
-<h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.cs<h3>&#x2022;
+<h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv
 
 
 ## <b>2. Methods</b>
