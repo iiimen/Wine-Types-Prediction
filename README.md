@@ -16,8 +16,6 @@ The data set used for this project is sourced from the UCI Machine Learning Repo
 
 <h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
 <h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.cs<h3>&#x2022;
-**
-The data set contains physicochemical measurements of two types of wines - white and red. There are 11 input variables that describe the properties of the wines and 1 output variable that classifies the wines as either "white" or "red". There are 4,898 white wine samples and 1,599 red wine samples in the data set.**
 
 
 ## <b>2. Methods</b>
