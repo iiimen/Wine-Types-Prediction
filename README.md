@@ -14,8 +14,7 @@ This project uses deep learning to classify white and red wines based on their p
 
 The data set used for this project is sourced from the UCI Machine Learning Repository, which can be found at the following links:
 
-<h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv </h3>
-<h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv </h3>
+<h3>&#x2022; http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality </h3>
 The data set contains physicochemical measurements of two types of wines - white and red. There are 11 input variables that describe the properties of the wines and 1 output variable that classifies the wines as either "white" or "red". There are 4,898 white wine samples and 1,599 red wine samples in the data set.
 
 
